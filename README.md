@@ -30,7 +30,6 @@ This project demonstrates foundational data analysis and visualization workflows
 ---
 
 ##  Installation & Usage
-
 1. **Clone the repository**:
    git clone https://github.com/arilakshme-05/sales-data-analysis.git
    cd sales-data-analysis
